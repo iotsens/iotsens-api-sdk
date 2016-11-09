@@ -1,0 +1,8 @@
+{
+    "success": false,
+    "msg": null,
+    "data": {
+        "exceptionClassName": "com.grupogimeno.maya.exceptions.UserCanNotRequestException"
+    },
+    "total": 0
+}

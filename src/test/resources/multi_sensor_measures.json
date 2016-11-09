@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "data": [
+        {
+            "timestamp": "25/05/2016 08:24:14",
+            "variableName": "TEMP",
+            "sensorId": "TEMP01",
+            "value": "17.81"
+        },
+        {
+            "timestamp": "25/05/2016 08:24:14",
+            "variableName": "TEMP",
+            "sensorId": "TEMP02",
+            "value": "17.79"
+        }
+    ]
+}

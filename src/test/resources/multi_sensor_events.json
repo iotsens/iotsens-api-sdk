@@ -1,0 +1,29 @@
+{
+    "success": true,
+    "data": [
+        {
+            "timestamp": "21/05/2015 06:41:03",
+            "id": 24328,
+            "deactivationTime": "21/05/2015 06:41:29",
+            "variableName": "TEMP",
+            "name": "INACTIVITY_EVENT",
+            "sensorId": "TEMP01",
+            "data": "Se ha superado el tiempo máximo sin recibir medidas (1220 segundos) en variable TEMP",
+            "active": true,
+            "type": "ALARM",
+            "ackState": "NOT_REQUIRED"
+        },
+        {
+            "timestamp": "21/05/2015 06:41:03",
+            "id": 24329,
+            "deactivationTime": "21/05/2015 06:41:29",
+            "variableName": "TEMP",
+            "name": "INACTIVITY_EVENT",
+            "sensorId": "TEMP02",
+            "data": "Se ha superado el tiempo máximo sin recibir medidas (1220 segundos) en variable TEMP",
+            "active": false,
+            "type": "ALARM",
+            "ackState": "NOT_REQUIRED"
+        }
+    ]
+}

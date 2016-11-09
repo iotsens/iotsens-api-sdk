@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "data": [
+        {
+            "timestamp": "10/05/2016 02:00:00",
+            "variableName": "TEMP",
+            "summaryTimeUnit": "MINUTES",
+            "sensorId": "TEMP02",
+            "value": "13.24",
+            "rawValue": "13.239999771118164"
+        },
+        {
+            "timestamp": "10/05/2016 02:30:00",
+            "variableName": "TEMP",
+            "summaryTimeUnit": "MINUTES",
+            "sensorId": "TEMP02",
+            "value": "12.88",
+            "rawValue": "12.880000114440918"
+        }
+    ]
+}

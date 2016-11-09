@@ -1,0 +1,57 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1937,
+            "sourceTemplate": {
+                "id": 14,
+                "templateName": "Oficina FACSA"
+            },
+            "category": {
+                "id": 3,
+                "listingOrder": 70,
+                "color": "",
+                "name": "Oficinas FACSA"
+            },
+            "sourceTemplateVersion": 1,
+            "enable": true,
+            "longitude": 30.5,
+            "templateEntity": false,
+            "latitude": -0.5,
+            "uniqueId": "003"
+        },
+        {
+            "id": 1938,
+            "sourceTemplate": {
+                "id": 14,
+                "templateName": "Oficina FACSA"
+            },
+            "category": {
+                "id": 3,
+                "listingOrder": 70,
+                "color": "",
+                "name": "Oficinas FACSA"
+            },
+            "sourceTemplateVersion": 1,
+            "enable": true,
+            "longitude": 11,
+            "templateEntity": false,
+            "latitude": 10,
+            "uniqueId": "004"
+        },
+        {
+            "id": 1990,
+            "category": {
+                "id": 26,
+                "listingOrder": 0,
+                "color": "",
+                "name": "Planta industrial"
+            },
+            "enable": true,
+            "longitude": -0.486721009016037,
+            "templateEntity": false,
+            "latitude": 39.2368011474609,
+            "uniqueId": "020B00000001"
+        }
+    ]
+}

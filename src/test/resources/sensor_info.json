@@ -1,0 +1,37 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1937,
+            "sourceTemplate": {
+                "id": 14,
+                "templateName": "Oficina FACSA"
+            },
+            "category": {
+                "id": 3,
+                "listingOrder": 70,
+                "color": "",
+                "name": "Oficinas FACSA"
+            },
+            "sourceTemplateVersion": 1,
+            "enable": true,
+            "longitude": 42.3,
+            "templateEntity": false,
+            "latitude": 30.3,
+            "properties": [
+                {
+                    "id": 5539,
+                    "unit": "",
+                    "sensorId": "1937",
+                    "name": "DIRECCION",
+                    "displayOrder": 10,
+                    "writeable": true,
+                    "remote": false,
+                    "type": "STRING",
+                    "lastValue": "hola"
+                }
+            ],
+            "uniqueId": "003"
+        }
+    ]
+}
