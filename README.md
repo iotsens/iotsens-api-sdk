@@ -40,4 +40,4 @@ for (SensorBasic sensorBasic :  apiClient.getSensors(sensorsRequest)) {
 }
 ```
 
-For more information about the SDK and using the REST API directly, check the [documentation}(IoTsens-API.pdf)
+For more information about the SDK and using the REST API directly, check the [documentation](IoTsens-API.pdf)
