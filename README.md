@@ -39,3 +39,5 @@ for (SensorBasic sensorBasic :  apiClient.getSensors(sensorsRequest)) {
 	System.out.println("Sensor = " + sensorBasic.toString());
 }
 ```
+
+For more information about the SDK and using the REST API directly, check the [documentation}(IoTsens-API.pdf)
