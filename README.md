@@ -8,7 +8,7 @@ public static final String SECRET = "SECRETWORD"; // must be proper secret
 public static final String DEFAULT_USER = "USER.NAME"; // must be a proper user
 
 
-IoTSensApiClient apiClient = aIoTSensClient()
+IoTSensApiClient apiClient = IoTSensApiClientBuilder.aIoTSensClient()
 		.withApplication(APPLICATION_ID)
 		.withSecret(SECRET)
 		.withDefaultUser(DEFAULT_USER)
@@ -25,7 +25,7 @@ Retrieve all sensors matching the conditions:
 * belong to templateId 18
 
 ```java
-SensorsRequest sensorsRequest = aSensorRequest()
+SensorsRequest sensorsRequest = SensorRequestBuilder.aSensorRequest()
 		.withNorth(40.887784)
 		.withWest(0.082239)
 		.withSouth(39.887784)
