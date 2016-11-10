@@ -80,7 +80,13 @@ public class IoTSensApiClient {
         byte[] md5 = md5Generator.digest(preToken.getBytes());
 
         BigInteger bigInteger = new BigInteger(1, md5);
-        return bigInteger.toString(16);
+        String cripted = bigInteger.toString(16);
+
+        while (cripted.length() < 32) {
+            cripted = "0" + cripted;
+        }
+
+        return cripted;
     }
 
     /*
