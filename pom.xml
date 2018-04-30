@@ -2,9 +2,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>iotsens-api-sdk</groupId>
+    <groupId>com.iotsens.sdk</groupId>
     <artifactId>iotsens-api-sdk</artifactId>
-    <version>1.4</version>
+    <version>1.5-SNAPSHOT</version>
 
     <properties>
         <jackson.version>2.7.4</jackson.version>
@@ -12,17 +12,11 @@
 
     <scm>
         <developerConnection>
-            scm:git:http://172.20.34.209/iotsens/iotsens-api-sdk.git
+            scm:git:https://github.com/iotsens/iotsens-api-sdk.git
         </developerConnection>
         <tag>HEAD</tag>
     </scm>
 
-    <distributionManagement>
-        <repository>
-            <id>nexus</id>
-            <url>http://nexus.grupogimeno.com/nexus/service/local/repositories/releases/content/</url>
-        </repository>
-    </distributionManagement>
 
     <dependencies>
         <dependency>
