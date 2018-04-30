@@ -1,5 +1,4 @@
-[![Release](https://jitpack.io/v/iotsens/iotsens-api-sdk.svg)]
-(https://jitpack.io/iotsens/iotsens-api-sdk)
+[![Release](https://jitpack.io/v/iotsens/iotsens-api-sdk.svg)](https://jitpack.io/#iotsens/iotsens-api-sdk)
 
 # Java Client for IOTSENS Public API
 
