@@ -1,5 +1,4 @@
 [![Release](https://jitpack.io/v/iotsens/iotsens-api-sdk.svg)](https://jitpack.io/#iotsens/iotsens-api-sdk)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
 
 # Java Client for IOTSENS Public API
