@@ -1,3 +1,6 @@
+[![Release](https://jitpack.io/v/User/Repo.svg)]
+(https://jitpack.io/#User/Repo)
+
 # Java Client for IOTSENS Public API
 
 The main class is com.iotsens.sdk.IoTSensApiClient which contains the actual methods to invoke to the REST services. The following is a snippet of how to initialize this class:
